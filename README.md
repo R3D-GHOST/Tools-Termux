@@ -4,7 +4,7 @@ Descarga e instala hacking tools para termux
 # Termux Install Requerimientos
 pkg install git 
 
-git clone 
+git clone https://github.com/R3D-GHOST/Tools-Termux.git
 
 cd Tools-Termux
 
