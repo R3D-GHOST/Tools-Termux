@@ -12,6 +12,10 @@ bash install.sh
 
 bash menu.sh
 
+# Version de la Herramienta 
+
+Tools-Termux >>> Version 1.0 
+
 -------------------------------------------
 
 Redes Sociales
